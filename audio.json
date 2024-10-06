@@ -1,3 +1,6 @@
 [ 
-  { "url":"S1.wav","type":"audio","bank":"voz1","n":0} 
+  { "url":"S1.wav","type":"audio","bank":"voz1","n":0},
+   { "url":"S2.wav","type":"audio","bank":"voz1","n":1}, 
+   { "url":"S3.wav","type":"audio","bank":"voz1","n":2}, 
+   { "url":"S4.wav","type":"audio","bank":"voz1","n":3} 
 ]
