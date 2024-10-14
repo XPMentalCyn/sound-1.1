@@ -1,1 +1,3 @@
 ##boxsound
+
+[Samples](samples.json)
